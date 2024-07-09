@@ -16,4 +16,3 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
-![2024-07-09 04-24-03 High Res Screenshot](https://github.com/shedrack-moses/Timbu-api-shop-app-/assets/168422376/8eba282b-290f-42fa-b83f-ba0751f07810)
