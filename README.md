@@ -15,4 +15,5 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-
+image of app
+![2024-07-09 16-53-04 High Res Screenshot](https://github.com/shedrack-moses/Timbu-api-shop-app-/assets/168422376/1b18902b-07dc-4316-8707-1749742f9df1)
